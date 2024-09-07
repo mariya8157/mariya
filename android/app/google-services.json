@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "395781486794",
+    "project_id": "mariya-ecdfe",
+    "storage_bucket": "mariya-ecdfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395781486794:android:95651088b8b8f7717b1c33",
+        "android_client_info": {
+          "package_name": "com.example.mariya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNNpuk6NE6BCX_8-MvErhxQ48mWVRy_Bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
